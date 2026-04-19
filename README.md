@@ -10,7 +10,7 @@
 ```
 
 **A production-grade, autonomous coding agent harness.**  
-*Rust TUI shell. Python cognitive brain. Claude Code parity.*
+*Rust TUI shell. Python cognitive brain.*
 
 ![Rust](https://img.shields.io/badge/Rust-1.77%2B-orange?style=flat-square&logo=rust)
 ![Python](https://img.shields.io/badge/Python-3.11%2B-blue?style=flat-square&logo=python)
