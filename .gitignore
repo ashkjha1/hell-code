@@ -1,0 +1,46 @@
+# Rust
+/target
+Cargo.lock
+.cargo/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv-hellcode/
+venv/
+ENV/
+env/
+.env
+
+# HELL-CODE Configuration & Secrets
+.hell-code/secrets.toml
+secrets.toml
+hell_code.toml
+
+# macOS
+.DS_Store
+
+# IDEs
+.vscode/
+.idea/
+
+# HELL-CODE local artifacts
+.hell-code/
+.hell-code/settings.local.json
+.hell-code/sessions/
+.hell-code/logs/
+.hell-code.json
+
+# MARKDOWN
+AGENTS.md
+HELL-CODE.md
+implementation_plan.md
+PARITY.md
+PHILOSOPHY.md
+task.md
+walkthrough.md
+
+# Docker file
+Dockerfile
+

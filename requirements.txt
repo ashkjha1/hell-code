@@ -1,0 +1,9 @@
+openai
+litellm
+requests
+beautifulsoup4
+python-dotenv
+tiktoken
+rich
+google-generativeai
+google-cloud-aiplatform
